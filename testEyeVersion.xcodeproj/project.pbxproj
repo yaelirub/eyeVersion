@@ -51,7 +51,7 @@
 		2F15A27B1E1D723200FC7C89 /* testEyeVersionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testEyeVersionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F15A27F1E1D723200FC7C89 /* testEyeVersionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testEyeVersionUITests.swift; sourceTree = "<group>"; };
 		2F15A2811E1D723200FC7C89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2F15A28F1E1D7A1800FC7C89 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
+		2F15A28F1E1D7A1800FC7C89 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3CBFC3014EC484E9A7F707D3 /* Pods_testEyeVersion.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testEyeVersion.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		55289BD0CE18A2A86DDEA03A /* Pods-testEyeVersion.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testEyeVersion.debug.xcconfig"; path = "Pods/Target Support Files/Pods-testEyeVersion/Pods-testEyeVersion.debug.xcconfig"; sourceTree = "<group>"; };
 		C27D4E0037EA776D4CCB07F6 /* Pods-testEyeVersion.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testEyeVersion.release.xcconfig"; path = "Pods/Target Support Files/Pods-testEyeVersion/Pods-testEyeVersion.release.xcconfig"; sourceTree = "<group>"; };
@@ -653,6 +653,7 @@
 				2F15A2861E1D723200FC7C89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2F15A2871E1D723200FC7C89 /* Build configuration list for PBXNativeTarget "testEyeVersionTests" */ = {
 			isa = XCConfigurationList;
@@ -661,6 +662,7 @@
 				2F15A2891E1D723200FC7C89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2F15A28A1E1D723200FC7C89 /* Build configuration list for PBXNativeTarget "testEyeVersionUITests" */ = {
 			isa = XCConfigurationList;
@@ -669,6 +671,7 @@
 				2F15A28C1E1D723200FC7C89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
